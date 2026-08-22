@@ -1,7 +1,10 @@
 ---
 layout: page
 title: About
-updated: 2016-04-01 09:00:00 +0200
+updated: 2026-08-20 09:00:00 +0200
 ---
 
-Alive + rocking = {{ site.author }}
+I'm Rin, a software developer and EMT. 
+
+
+
