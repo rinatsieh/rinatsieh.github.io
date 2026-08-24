@@ -12,5 +12,5 @@ You can &hellip;
 
 [email]: mailto:{{ site.email }}
 [irc]: irc://chat.freenode.net/{{ site.ircchannel }}
-[twitter]: https://twitter.com/{{ site.twitter }}
+[twitter]: https://t witter.com/{{ site.twitter }}
 
